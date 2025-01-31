@@ -44,19 +44,19 @@ Summary Metrics:
 🧪 View experiment at: http://localhost:5000/#/experiments/0
 ```
 - в папке screenshots находится демонстрация работы в графическом интерфейсе MLFlow:
- ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp100metr.png?raw=true)
+ ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExp100metr.png?raw=true)
 * метрики для 100 Estimators
-  ![plot_50](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp50metr.png?raw=true)
+  ![plot_50](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExp50metr.png?raw=true)
 * метрики для 50 Estimators
-  ![plot_10](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp10metr.png?raw=true)
+  ![plot_10](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExp10metr.png?raw=true)
 * метрики для 10 Estimators
-  ![screen_iris](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpScreenshot.png?raw=true)
+  ![screen_iris](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExpScreenshot.png?raw=true)
 * скриншот информации о проведенных экспериментах Iris Classification
-  ![table_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpfullmetr.png?raw=true)
+  ![table_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExpfullmetr.png?raw=true)
 * сводная таблица по метрикам
-  ![graph_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpgpaphmetr.png?raw=true)
+  ![graph_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/IrisExpgpaphmetr.png?raw=true)
 * сводные графики по метрикам
-  ![artifacts](https://github.com/Dk-A-r/hw2_mlflow/blob/main/artifacts.png?raw=true)
+  ![artifacts](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/artifacts.png?raw=true)
 * артефакты при составлении отчета (происходят в рамках экспериментов Default)
-  ![report](https://github.com/Dk-A-r/hw2_mlflow/blob/main/report.png?raw=true)
+  ![report](https://github.com/Dk-A-r/hw2_mlflow/blob/main/screenshots/report.png?raw=true)
 * скриншот экспериментов по генерации отчетов

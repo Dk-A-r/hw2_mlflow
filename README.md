@@ -19,7 +19,7 @@
  ![recall_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/recall_plot.png?raw=true)
 
 - также стоит отметить, что файл report_script.py выводит результаты метрик в консоль и указывает, по какому адресу можно посмотреть сам отчет в интерфейсе UI MLFlow по типу следующего:
-"""
+```
     params.n_estimators  metrics.accuracy  metrics.precision  metrics.recall  metrics.f1_score
 0                 100               1.0                1.0             1.0               1.0
 1                  50               1.0                1.0             1.0               1.0
@@ -42,5 +42,5 @@ Summary Metrics:
 7                 100               1.0                NaN             NaN               NaN
 🏃 View run Report_Generation at: http://localhost:5000/#/experiments/0/runs/<some-hash-value>
 🧪 View experiment at: http://localhost:5000/#/experiments/0
-"""
+```
   

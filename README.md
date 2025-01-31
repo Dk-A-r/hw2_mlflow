@@ -43,4 +43,5 @@ Summary Metrics:
 🏃 View run Report_Generation at: http://localhost:5000/#/experiments/0/runs/<some-hash-value>
 🧪 View experiment at: http://localhost:5000/#/experiments/0
 ```
-  
+- в папке screenshots находится демонстрация работы в графическом интерфейсе MLFlow:
+* 

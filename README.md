@@ -9,4 +9,12 @@
   $ mlflow ui
   ```
   Позднее необходимо открыть другое окно терминала, там запустить скрипт experiments_script.py, после чего скрипт report_script.py, который соберет необходимые метрики с сервера MLFlow. На итоговых графиках (которые также представлены в репозитории) имеется соотношение связи между количеством estimators и значениями метрик. Поскольку эксперимент производился в искусственных условиях (рассматривалась только первая строка датасета) значения метрик одинаковы. Вместе с тем при усложнении экспериментов графики могут стать более разнообразными. А пока графики следующие:
-  ![accuracy_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/accuracy_plot.png?raw=true) График по метрике Accuracy
+* по метрике Accuracy
+  ![accuracy_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/accuracy_plot.png?raw=true)
+* по метрике F1
+  ![f1_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/f1_score_plot.png?raw=true)
+* по метрике Precision
+  ![f1_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/precision_plot.png?raw=true)
+* по метрике Recall
+ ![recall_plot](https://github.com/Dk-A-r/hw2_mlflow/blob/main/recall_plot.png?raw=true)
+  

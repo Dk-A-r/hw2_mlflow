@@ -46,17 +46,17 @@ Summary Metrics:
 - в папке screenshots находится демонстрация работы в графическом интерфейсе MLFlow:
  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp100metr.png?raw=true)
 * метрики для 100 Estimators
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp50metr.png?raw=true)
+  ![plot_50](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp50metr.png?raw=true)
 * метрики для 50 Estimators
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp10metr.png?raw=true)
+  ![plot_10](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExp10metr.png?raw=true)
 * метрики для 10 Estimators
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpScreenshot.png?raw=true)
+  ![screen_iris](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpScreenshot.png?raw=true)
 * скриншот информации о проведенных экспериментах Iris Classification
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpfullmetr.png?raw=true)
+  ![table_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpfullmetr.png?raw=true)
 * сводная таблица по метрикам
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpgpaphmetr.png?raw=true)
+  ![graph_metr](https://github.com/Dk-A-r/hw2_mlflow/blob/main/IrisExpgpaphmetr.png?raw=true)
 * сводные графики по метрикам
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/artifacts.png?raw=true)
+  ![artifacts](https://github.com/Dk-A-r/hw2_mlflow/blob/main/artifacts.png?raw=true)
 * артефакты при составлении отчета (происходят в рамках экспериментов Default)
-  ![plot_100](https://github.com/Dk-A-r/hw2_mlflow/blob/main/report.png?raw=true)
+  ![report](https://github.com/Dk-A-r/hw2_mlflow/blob/main/report.png?raw=true)
 * скриншот экспериментов по генерации отчетов
